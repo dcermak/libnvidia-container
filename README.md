@@ -6,6 +6,7 @@
 [![Travis](https://img.shields.io/travis/NVIDIA/libnvidia-container.svg?style=flat-square)](https://travis-ci.org/NVIDIA/libnvidia-container)
 [![Coverity Scan](https://img.shields.io/coverity/scan/12444.svg?style=flat-square)](https://scan.coverity.com/projects/nvidia-libnvidia-container)
 [![LGTM](https://img.shields.io/lgtm/grade/cpp/g/NVIDIA/libnvidia-container.svg?style=flat-square)](https://lgtm.com/projects/g/NVIDIA/libnvidia-container/alerts/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdcermak%2Flibnvidia-container.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdcermak%2Flibnvidia-container?ref=badge_shield)
 
 This repository provides a library and a simple CLI utility to automatically configure GNU/Linux containers leveraging NVIDIA hardware.\
 The implementation relies on kernel primitives and is designed to be agnostic of the container runtime.
@@ -82,6 +83,9 @@ This project is released under the [BSD 3-clause license](https://github.com/NVI
 
 Additionally, this project can be dynamically linked with libelf from the elfutils package (https://sourceware.org/elfutils), in which case additional terms apply.\
 Refer to [NOTICE](https://github.com/NVIDIA/libnvidia-container/blob/master/NOTICE) for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdcermak%2Flibnvidia-container.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdcermak%2Flibnvidia-container?ref=badge_large)
 
 ## Issues and Contributing
 
